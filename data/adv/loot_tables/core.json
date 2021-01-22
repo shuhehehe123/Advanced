@@ -9,7 +9,7 @@
             "functions": [
               {
                 "function": "set_nbt",
-                "tag": "{id:\"adv:core\",display:{Name:'{\"translate\":\"item.adv.core\"}'},CustomModelData:8770001}"
+                "tag": "{id:'adv.core',display:{Name:'{\"translate\":\"item.adv.core\"}'},CustomModelData:8770001}"
               }
             ]
           }
