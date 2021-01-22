@@ -1,0 +1,20 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "set_nbt",
+                "tag": "{id:\"adv:core\",display:{Name:'{\"translate\":\"item.adv.core\"}'},CustomModelData:8770001}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

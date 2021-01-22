@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/nether_star"
+    },
+    "overrides": [
+      { "predicate": { "custom_model_data": 8870001 }, "model": "adv:item/core"}
+    ]
+  }
