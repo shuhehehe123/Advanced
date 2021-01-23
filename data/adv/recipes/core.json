@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "WWW",
+      "ZEZ",
+      "WWW"
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:iron_ingot"
+      },
+      "W": {
+        "item": "minecraft:dirt"
+      },
+      "Z": {
+        "item": "minecraft:stone"
+      }
+      
+    },
+    "result": {
+      "item": "adv:core",
+      "count":2
+    }
+}
