@@ -1,24 +1,21 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "WWW",
-      "ZEZ",
-      "WWW"
+      "AAA",
+      "BBB",
+      "AAA"
     ],
     "key": {
-      "E": {
+      "B": {
         "item": "minecraft:iron_ingot"
       },
-      "W": {
-        "item": "minecraft:dirt"
-      },
-      "Z": {
+      "A": {
         "item": "minecraft:stone"
       }
       
     },
     "result": {
       "item": "minecraft:diamond",
-      "count":2
+      "count":2\1
     }
 }
