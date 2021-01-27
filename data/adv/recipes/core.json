@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    " E ",
+    "WWW"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "W": {
+      "item":"minecraft:dirt"
+    }
+  },
+  "result": {
+    "tag":"adv:core",
+    "count":2
+  }
+}

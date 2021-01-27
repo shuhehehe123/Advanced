@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\adv",
+    "\\assets\\adv\\lang",
+    "\\assets\\adv\\models",
+    "\\assets\\adv\\textures",
+    "\\assets\\adv\\textures\\item",
+    "\\assets\\data",
+    "\\assets\\data\\adv",
+    "\\assets\\data\\adv\\recipes"
+  ],
+  "SelectedNode": "\\assets\\data\\adv\\recipes\\string.json",
+  "PreviewInSolutionExplorer": false
+}
