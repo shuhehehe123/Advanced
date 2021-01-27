@@ -4,6 +4,6 @@
       "layer0": "item/nether_star"
     },
     "overrides": [
-      { "predicate": { "custom_model_data": 8870001 }, "model": "adv:item/core"}
+      { "predicate": { "custom_model_data": 8870001 }, "model": "adv:tools/core"}
     ]
   }

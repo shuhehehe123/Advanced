@@ -14,7 +14,7 @@
     }
   },
   "result": {
-    "item": "minecraft:sheep_spawn_egg",
+    "tag":"adv:core",
     "count":2
   }
 }
