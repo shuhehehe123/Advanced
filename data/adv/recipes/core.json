@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    " E ",
+    "WWW"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "W": {
+      "item":"minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "minecraft:sheep_spawn_egg",
+    "count":2
+  }
+}
