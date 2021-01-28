@@ -14,7 +14,8 @@
     }
   },
   "result": {
-    "tag":"adv:core",
-    "count":2
+      "item": "minecraft:stone"
+      
   }
+
 }

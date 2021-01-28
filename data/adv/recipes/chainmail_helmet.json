@@ -2,5 +2,5 @@
     "type": "minecraft:smithing", 
     "base": {"item": "minecraft:leather_helmet"},
     "addition": {"item": "minecraft:chain"},
-    "result": {"item": "minecraft:chainmail_helmet"}
+    "result": {"item":"minecraft:chainmail_helmet"}
 }

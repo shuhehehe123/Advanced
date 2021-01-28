@@ -3,4 +3,5 @@
     "base": {"item": "minecraft:leather_leggings"},
     "addition": {"item": "minecraft:chain"},
     "result": {"item": "minecraft:chainmail_leggings"}
+    
 }
